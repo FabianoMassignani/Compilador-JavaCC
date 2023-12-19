@@ -1,0 +1,15 @@
+Jedi Yoda = 1;
+Jedi LukeSkywalker = 42;
+Droid R202, C3PO = 3.14;
+
+Wookiee Chewbacca = Lightside;
+
+Jedi a = 10;
+Jedi b = 5;
+Jedi resultado = a + b;
+Jedi resultado2 = a - b;
+Jedi resultado3 = a * b; 
+Jedi resultado4 = a / b;
+jedi resultados = a ** 2;
+
+

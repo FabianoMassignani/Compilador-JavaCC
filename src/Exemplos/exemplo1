@@ -1,0 +1,19 @@
+Droid  R2D2, C3PO = 3.14;
+
+Jedi a = 10;
+Jedi b = 5;
+
+Jedi resultado = a + b + c
+
+Wookiee Chewbacca = Lightside;
+
+MillenniumFalcon(Jedi i = O ;i < 10; i++) {
+   Droid resultado = R202 + C3PO;
+   
+   Jedi LukeSkywalker = 1;
+
+   Lightsaber ((resultado <= 10) && (LukeSkywalker <= 5)) {
+	Droid soma = LukeSkywalker + 1;
+   }
+
+}
